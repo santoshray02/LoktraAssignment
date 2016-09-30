@@ -1,18 +1,20 @@
 Source code : webcrawler branch. https://github.com/santoshray02/LoktraAssignment/tree/Webcrawler
 
 
-Download both jar files from master branch. https://github.com/santoshray02/LoktraAssignment/new/master
+Download both jar files from master branch. https://github.com/santoshray02/LoktraAssignment/tree/master
 
 1) ReverseHash.jar
 
 2) web.jar
 
 
+Before running jar , jdk should be installed
+
 How to Run web RevershHash (ReverseHash.jar)
 
 1. run cmd and goto the directory containg jar files.
 
-2. type "java -jar ReverseHash.jar.jar" (it will run the HeverseHash)
+2. type "java -jar ReverseHash.jar" (it will run the ReverseHash)
 
 Observe Result..
 
